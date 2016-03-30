@@ -1,8 +1,16 @@
 {
   "name": "only-except",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "whitelist or blacklist properties of an object",
-  "keywords": ["utility", "util", "object", "whitelist", "blacklist", "mongoose", "ACL"],
+  "keywords": [
+    "utility",
+    "util",
+    "object",
+    "whitelist",
+    "blacklist",
+    "mongoose",
+    "ACL"
+  ],
   "author": "David Cizek <david@origamica.com> (https://twitter.com/dadc)",
   "private": false,
   "repository": "git://github.com/dacz/node-only-except",

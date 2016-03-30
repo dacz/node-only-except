@@ -1,7 +1,7 @@
 
 # only-except
 
-  Return whitelisted properties of an object or returns all properties except the specified one.
+  Whitelist or blacklist properties of an object.
 
   Most of the code is copied from amazing TJ Holowaychuk's [node-only](https://github.com/tj/node-only).
   Check it, maybe you need this one.
